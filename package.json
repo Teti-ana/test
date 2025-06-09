@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "ein test ffür mich",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teti-ana/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teti-ana/test/issues"
+  },
+  "homepage": "https://github.com/Teti-ana/test#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
