@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "ein test ffür mich",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "devDependencies": {
+    "axios": "^1.9.0",
+    "jest": "^30.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Hausaufgabe1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teti-ana/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teti-ana/test/issues"
+  },
+  "homepage": "https://github.com/Teti-ana/test#readme"
+}
