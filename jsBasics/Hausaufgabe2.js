@@ -9,3 +9,5 @@ console.log(greeting1);
 //шаблонний рядок для створення того ж вітання Vorlagenzeichenfolge zum Erstellen derselben Begrüßung
 let greeting2 = "Hallo, ${person1} und ${person2}! ";
 console.log(greeting2);
+
+

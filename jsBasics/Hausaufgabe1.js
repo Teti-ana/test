@@ -10,3 +10,4 @@ console.log(age);
 console.log(isStudent);
 console.log(emptyValue);
 console.log(notAsssignet);
+
